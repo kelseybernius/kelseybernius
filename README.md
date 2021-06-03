@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-My name is Kelsey and I work at GitHub as a sr. content strategist. 
+My name is Kelsey and I work at GitHub as a sr. content strategist: 
+
+-Colorado-based, Montana-bred   
+-Fueled by strong coffee, singletrack, and snowflakes 
+
+⚡ Fun fact: I've never eaten a :hotdog:
+
+
 <!--
 **kelseybernius/kelseybernius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
