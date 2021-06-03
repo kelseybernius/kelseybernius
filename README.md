@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Kelsey and I work at GitHub as a sr. content strategist. 
 <!--
 **kelseybernius/kelseybernius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
