@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Kelsey and I work at GitHub as a sr. content strategist. I'm Colorado-based, Montana-bred, and fueled by strong coffee, singletrack 🚵‍♀️, and snowflakes ⛷️. 
+My name is Kelsey and I work at GitHub as a sr. content strategist. I'm Colorado-based, Montana-bred, and fueled by strong coffee 🤪, singletrack 🚵‍♀️, and snowflakes ⛷️. 
 
 
-⚡ Fun fact: I've never eaten a :hotdog: but I've eaten most other things. 
+⚡ Fun fact: I've never eaten a :hotdog: but I've eaten most other things 🍴
 
 
 <!--
